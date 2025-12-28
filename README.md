@@ -1,5 +1,7 @@
 # 🚀 Projeto Todo — Node + React + SQLite
 
+#### Ferramenta de criação e acompanhamento do status atual de tarefas
+
 ## 📦 Requisitos
 - Node.js 18+ (recomendado 20)
 - npm ou pnpm
